@@ -1,5 +1,7 @@
 # Calculadora-Dividendos
 Projeto final do módulo Testes Automatizados da trilha Backend da iniciativa IfoodVemSerTech - Ada
+Esse projeto consiste em uma calculadora de dividendos, recebemos o valor e o período desejado e fazemos o cálculo a uma taxa fixa.
+Fizemos a parte de Front, API, BFF e testes.
 
 ## Pré requisitos para rodar a aplicação e os comandos para instalação
 
